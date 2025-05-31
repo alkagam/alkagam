@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alkagam/alkagam/main/profile-header.svg" alt="Full-Stack Web Developer - Computer Engineering Student">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHb0a21EbJYKg/profile-displaybackgroundimage-shrink_350_1400/B56Zclx8Q1G0Ac-/0/1748685539112?e=1753920000&v=beta&t=b4VYyD5HAnKAORl3II2hmfK87IqO5XGmczFgjloxFxs" alt="Full-Stack Web Developer - Computer Engineering Student">
 </p>
 
 ---
@@ -49,6 +49,10 @@ Distinguished by a proven **self-learning capability** and a strategic approach 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alkagam&color=blue" alt="Profile views">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkagam&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alkagam&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkagam&theme=radical" alt="GitHub Streak">
 </p>
