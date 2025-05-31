@@ -1,53 +1,54 @@
-Hi there 👋
-About Me
-I’m a passionate Computer Engineering student with a strong foundation in full-stack development, ranging from frontend design to backend logic and database management. I also have experience in embedded systems, using microcontrollers like Arduino and simulation tools like Proteus and FPGA.
+## Hi there 👋
 
-Recognized for my self-learning ability, problem-solving mindset, and interest in bridging the gap between software and hardware. I'm highly motivated by continuous learning, multidisciplinary collaboration, and building real-world tech solutions that make an impact.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alkagam/alkagam/main/profile-header.svg" alt="Full-Stack Web Developer - Computer Engineering Student">
+</p>
 
-I'm currently...
-🔭 Working on:
+---
 
-Web-based applications for text analysis and visualization (e.g., entropy analyzers).
+### About Me
 
-Simulations of embedded systems using microcontrollers and digital control logic.
+Highly motivated Computer Engineering student with a strong command of **full-stack web development**, encompassing **frontend, backend, and database management**.
 
-🌱 Learning:
+Distinguished by a proven **self-learning capability** and a strategic approach to **problem-solving**, consistently applying technological solutions to complex challenges. Deeply interested in **innovation**, **continuous learning**, and effective **collaboration** within multidisciplinary team environments.
 
-Advanced SQL optimization
+---
 
-Cloud computing basics
+### I'm currently...
 
-Microservices architecture and distributed systems
+- 🔭 **Working on:** Building scalable web applications with modern frameworks.
+- 🌱 **Learning:** Exploring advanced topics in cloud computing and microservices architecture.
+- 👯 **Looking to collaborate on:** Open-source projects related to web development, especially those with a focus on performance or user experience.
+- 🤔 **Looking for help with:** Optimizing database queries for large-scale applications.
+- 💬 **Ask me about:** React, Node.js, Python, database design, or anything related to full-stack development!
 
-👯 Looking to collaborate on:
+---
 
-Web or embedded projects focused on data analysis, UX, or IoT.
+### Technologies & Tools I Love
 
-Educational tools or apps with social/academic impact.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,python,django,flask,mongodb,postgresql,mysql,docker,git,github,vscode,aws,gcp" />
+  </a>
+</p>
 
-🤔 Looking for help with:
+---
 
-Scaling backend performance
+### How to reach me:
 
-Optimizing SQL queries and database schema for large datasets
+- 📫 **Email:** your.email@example.com (Replace with your actual email)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (Replace with your actual LinkedIn URL)
 
-💬 Ask me about:
+---
 
-HTML, CSS, JavaScript, Python, C#, C++
+### Fun Fact:
 
-Databases (Oracle, MySQL, Access)
+⚡ I once debugged a tricky frontend issue by literally talking through the code line-by-line to a rubber duck! 🦆
 
-Embedded systems, Arduino, FPGA
+---
 
-Digital control theory and Proteus simulations
-
-Technologies & Tools I Use
-💻 Languages: C++, Python, Java, C#, PHP, JavaScript
-
-🌐 Frontend: HTML5, CSS3, JS
-
-⚙️ Backend: PHP, Python, Node.js (learning)
-
-🗃️ Databases: MySQL, Oracle, Access, SQL
-
-🧰 Tools: Git/GitHub, Visual Studio, Proteus, Arduino IDE, Excel, PowerPoint
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alkagam&color=blue" alt="Profile views">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkagam&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkagam&theme=radical" alt="GitHub Streak">
+</p>
