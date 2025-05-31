@@ -36,10 +36,7 @@ Distinguished by a proven **self-learning capability** and a strategic approach 
 
 ### How to reach me:
 
-- 📫 **Email:** your.email@example.com (Replace with your actual email)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (Replace with your actual LinkedIn URL)
-
----
+- 📫 **Email:** saulitocquema@gmail.com 
 
 ### Fun Fact:
 
