@@ -1,55 +1,57 @@
-## Hi there 👋
+## 🌸 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 𝓽𝓻𝓪𝓿𝓮𝓵𝓮𝓻 👾
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHb0a21EbJYKg/profile-displaybackgroundimage-shrink_350_1400/B56Zclx8Q1G0Ac-/0/1748685539112?e=1753920000&v=beta&t=b4VYyD5HAnKAORl3II2hmfK87IqO5XGmczFgjloxFxs" alt="Full-Stack Web Developer - Computer Engineering Student">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHb0a21EbJYKg/profile-displaybackgroundimage-shrink_350_1400/B56Zclx8Q1G0Ac-/0/1748685539112?e=1753920000&v=beta&t=b4VYyD5HAnKAORl3II2hmfK87IqO5XGmczFgjloxFxs" alt="Full-Stack Web Developer - Computer Engineering Student" width="700" style="border-radius:12px; box-shadow: 0 0 25px #ff00ff;">
 </p>
 
 ---
 
-### About Me
+### 💾 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-Highly motivated Computer Engineering student with a strong command of **full-stack web development**, encompassing **frontend, backend, and database management**.
-
-Distinguished by a proven **self-learning capability** and a strategic approach to **problem-solving**, consistently applying technological solutions to complex challenges. Deeply interested in **innovation**, **continuous learning**, and effective **collaboration** within multidisciplinary team environments.
-
----
-
-### I'm currently...
-
-- 🔭 **Working on:** Building scalable web applications with modern frameworks.
-- 🌱 **Learning:** Exploring advanced topics in cloud computing and microservices architecture.
-- 👯 **Looking to collaborate on:** Open-source projects related to web development, especially those with a focus on performance or user experience.
-- 🤔 **Looking for help with:** Optimizing database queries for large-scale applications.
-- 💬 **Ask me about:** React, Node.js, Python, database design, or anything related to full-stack development!
+I'm a **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛** trapped in a neon dream, building full-stack web apps with a futuristic touch.  
+Self-taught, problem-solver, and always vibing with that 𝕧𝕒𝕡𝕠𝕣𝕨𝕒𝕧𝕖 energy.  
+  
+*「𝓟𝓻𝓸𝓬𝓮𝓼𝓼𝓲𝓷𝓰... 𝓲𝓷𝓷𝓸𝓿𝓪𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓲𝓸𝓷」*
 
 ---
 
-### Technologies & Tools I Love
+### 🚀 𝓦𝓱𝓪𝓽 𝓘'𝓶 𝓤𝓹 𝓣𝓸
+
+- 🔮 𝓒𝓻𝓮𝓪𝓽𝓲𝓷𝓰: Neon-lit scalable web apps that run like synthwave beats.  
+- 🌱 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰: Cloud computing, microservices, and database alchemy.  
+- 🤝 𝓒𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓲𝓷𝓰: On projects that care about speed, sleek UX, and vapor aesthetics.  
+- 🧩 𝓢𝓮𝓮𝓴𝓲𝓷𝓰 𝓗𝓮𝓵𝓹: Optimizing SQL queries to handle cosmic data flows.  
+- 💬 𝓐𝓼𝓴 𝓜𝓮 𝓐𝓫𝓸𝓾𝓽: React ⚛️, Node.js 🟢, Python 🐍, DB design 💾, and full-stack wizardry.  
+
+---
+
+### ⚙️ 𝓣𝓮𝓬𝓱 𝓣𝓸𝓸𝓵𝓼 & 𝓕𝓪𝓿𝓼
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,python,django,flask,mongodb,postgresql,mysql,docker,git,github,vscode,aws,gcp" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,flask,mysql,postgresql,mongodb,docker,git,github,vscode,aws,gcp" style="filter: drop-shadow(0 0 6px #ff00ff);" />
 </p>
 
 ---
 
-### How to reach me:
+### 📡 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
 
-- 📫 **Email:** saulitocquema@gmail.com 
+- 📧 𝔈𝔪𝔞𝔦𝔩: [𝓼𝓪𝓾𝓵𝓲𝓽𝓸𝓬𝓺𝓾𝓮𝓶𝓪@gmail.com](mailto:saulitocquema@gmail.com)
 
-### Fun Fact:
+---
 
-⚡ I once debugged a tricky frontend issue by literally talking through the code line-by-line to a rubber duck! 🦆
+### 🎵 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽
+
+> I debugged a frontend glitch by talking to a rubber duck — and the neon duck lit up! 🦆💡
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alkagam&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=alkagam&color=ff00ff" alt="Profile views" />
 </p>  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alkagam&show_icons=true&theme=radical" alt="GitHub Stats">
-  </p>
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkagam&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkagam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkagam&theme=radical" alt="GitHub Streak" />
+</p>
+
