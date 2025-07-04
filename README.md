@@ -53,7 +53,7 @@ Aquí están algunas de las herramientas y tecnologías con las que me encanta c
 
 Actualmente programando con los sonidos de:
 
-> 🎵 [Nightcall - Kavinsky](https://open.spotify.com/track/0b9roqgI9t1e9R6fLqL306?si=YOUR_SPOTIFY_SHARE_ID)
+> 🎵 [Nightcall - Kavinsky](https://www.youtube.com/watch?v=MV_3Dpw-BRY)
 
 ---
 
