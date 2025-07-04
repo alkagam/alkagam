@@ -27,9 +27,17 @@ Self-taught, problem-solver, and always vibing with that 𝕧𝕒𝕡𝕠𝕣�
 
 ### ⚙️ 𝓣𝓮𝓬𝓱 𝓣𝓸𝓸𝓵𝓼 & 𝓕𝓪𝓿𝓼
 
+Aquí están algunas de las herramientas y tecnologías con las que me encanta construir, impulsando mis proyectos con un toque futurista:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,flask,mysql,postgresql,mongodb,docker,git,github,vscode,aws,gcp" style="filter: drop-shadow(0 0 6px #ff00ff);" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,flask,mysql,postgresql,mongodb,docker,git,github,vscode,aws,gcp" style="filter: drop_shadow(0 0 6px #ff00ff);" />
 </p>
+
+-   **Frontend:** HTML, CSS, JavaScript (ESNext), TypeScript, React ⚛️, Next.js, Tailwind CSS (Para interfaces que brillan con luz propia y una experiencia de usuario fluida).
+-   **Backend:** Node.js 🟢, Express, Python 🐍 (con frameworks como Django y Flask para una lógica robusta y escalable).
+-   **Bases de Datos:** MySQL 💾, PostgreSQL, MongoDB (Dominando tanto las bases de datos relacionales como las no relacionales para gestionar flujos de datos cósmicos).
+-   **DevOps & Herramientas:** Docker, Git, GitHub, VS Code (Para un flujo de trabajo eficiente, control de versiones y despliegues optimizados).
+-   **Cloud:** AWS, GCP (Explorando y construyendo soluciones escalables y resilientes en la nube).
 
 ---
 
@@ -39,9 +47,13 @@ Self-taught, problem-solver, and always vibing with that 𝕧𝕒𝕡𝕠𝕣�
 
 ---
 
-### 🎵 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽
+### 👾 𝓥𝓲𝓫𝓮𝓼 & 𝓕𝓾𝓷 𝓕𝓪𝓬𝓽𝓼
 
 > I debugged a frontend glitch by talking to a rubber duck — and the neon duck lit up! 🦆💡
+
+Actualmente programando con los sonidos de:
+
+> 🎵 [Nightcall - Kavinsky](https://open.spotify.com/track/0b9roqgI9t1e9R6fLqL306?si=YOUR_SPOTIFY_SHARE_ID)
 
 ---
 
